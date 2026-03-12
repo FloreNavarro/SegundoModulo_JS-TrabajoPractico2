@@ -1,3 +1,5 @@
+
+let nuevacadena = "";
 while (confirm("¿Desea ingresar una frase? ")) {
   let cadena = prompt("Ingrese una frase:");
   //nuevacadena += cadena;
