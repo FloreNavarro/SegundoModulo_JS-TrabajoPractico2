@@ -7,6 +7,8 @@
 //Deberá de repetirse el proceso hasta que el usuario pulse «cancelar».
 
 
+
+function calcularLetraDNI() {
         //ingresar numero DNI:
         while(true){
          //Deberá de repetirse el proceso hasta que el usuario pulse «cancelar».
@@ -100,4 +102,5 @@
         }
     }
 
-    
+}
+
