@@ -1,6 +1,10 @@
-                                                   Trabajo Práctico N°2: Estructuras de Control
+                                                   Trabajo Práctico N°2: Estructuras de Control:
+
 Este repositorio contiene la resolución de los ejercicios correspondientes al segundo trabajo práctico del módulo de JavaScript.
-El objetivo principal es poner en práctica el uso de estructuras condicionales y bucles para resolver problemas de lógica de programación.
+
+El objetivo principal es poner en práctica el uso de estructuras condicionales y bucles para resolver problemas de lógica de 
+
+programación.
 
 📋 Descripción:
 
