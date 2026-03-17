@@ -13,7 +13,7 @@ let edad2 = parseInt(prompt("Introduce la edad de " + nombre2 + ":"));
 let nombre3 = prompt("Introduce el tercer nombre:");
 let edad3 = parseInt(prompt("Introduce la edad de " + nombre3 + ":"));
 
-// Usamos Math.max para encontrar el número más alto entre las 3 variables
+//  Math.max para encontrar el número más alto entre las ingresadas
 let edadMayor = Math.max(edad1, edad2, edad3);
 
 //  condicionales (if/else) para saber a quién le pertenece esa edad
